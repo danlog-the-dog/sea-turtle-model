@@ -1,0 +1,12 @@
+# Materials for the supplied sea turtle model
+newmtl PM3D_Sphere3D1_4
+Kd 1.0 1.0 1.0
+map_Kd tex/eye_Base_Color.png
+Ks 0 0 0
+Ns 0
+illum 2
+
+newmtl PolySphere1_1
+Kd 1.0 1.0 1.0
+map_Kd tex/body_Base_color.png
+illum 2
